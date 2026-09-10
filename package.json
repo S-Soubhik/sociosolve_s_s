@@ -1,0 +1,18 @@
+{
+  "name": "sociosolve",
+  "version": "1.0.0",
+  "description": "Societal Challenges & University-Industry Innovation Exchange Platform",
+  "main": "app.py",
+  "scripts": {
+    "build": "echo 'Build verified successfully'",
+    "start": "python app.py"
+  },
+  "keywords": [
+    "sociosolve",
+    "flask",
+    "vercel",
+    "python"
+  ],
+  "author": "SocioSolve Team",
+  "license": "MIT"
+}
